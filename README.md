@@ -1,4 +1,4 @@
 # Ecommerce-Website
 My first repository on GitHub
 
-It is the front page of an E-Commerce Website
+It is the User Interface part of an E-Commerce Website
